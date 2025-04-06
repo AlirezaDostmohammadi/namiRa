@@ -1,6 +1,6 @@
 # namiRa
 
-A manually curated database for microRNAs in cancer.
+A manually curated database for microRNAs in cancer.</br>
 This repository contains tools for API access and the visualization of miRNA regulatory networks.
 
 
