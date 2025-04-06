@@ -11,4 +11,4 @@ The `API` folder contains example `Python` and `R` scripts for fetching miRNA da
 The `Regulatory Network` folder provides an end-to-end pipeline for visualizing regulatory relationships using dendrograms.
 
 ## Access the namiRa Database
-Visit <a href='namira-db.com'>namira-db.com</a> to query and explore curated miRNA–cancer data.
+Visit <a href='https://namira-db.com'>namira-db.com</a> to query and explore curated miRNA–cancer data.
